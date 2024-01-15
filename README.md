@@ -1,2 +1,2 @@
 # bank-zones
-Isochrones around government banks
+Generate walking zones around FDIC-insured banks
